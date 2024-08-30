@@ -1,0 +1,22 @@
+#main-div {
+    margin-top: 3%;
+    padding: auto;
+    text-align: center;
+}
+
+#counter {
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+#pinapple {
+    width: 227px;
+    height: 646px;
+}
+
+body {
+    background-color: burlywood;
+}
+
+
